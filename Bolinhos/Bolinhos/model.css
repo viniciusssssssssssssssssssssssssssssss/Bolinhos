@@ -1,0 +1,122 @@
+body{
+
+background-color: rgb(254, 238, 255);
+
+}
+
+body{
+
+border-bottom: 15px;
+border-color: bisque;
+
+}
+
+h1 {
+
+color: black;
+text-align: center;
+text-shadow: black;
+font-style: oblique;
+font-size: 65px;
+}
+
+h2{
+
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 300px;
+}
+
+
+h2 {
+    
+    color: black;
+    margin-left: 10px;
+    margin-right: 300px;
+    text-shadow: black;
+    font-style: oblique;
+    font-size: 30px;
+}
+
+h3{
+
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 300px;
+    }
+    
+h4{
+
+font-size: 30px;
+margin-left: 10px;
+margin-right: 300px;
+}
+
+h4{
+
+color: black;
+margin-left: 10px;
+margin-right: 300px;
+text-shadow:black;
+font-style: oblique;
+font-size: 30px;
+
+}
+
+h5{
+
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 300px;
+}
+
+
+
+
+
+
+
+
+p{
+font-size: 15px;
+font-style: oblique;
+margin-left: 50px;
+margin-right: 300px;
+}
+
+img {
+     max-width: 500px;
+    display:block; 
+    border-radius: 25px;
+        margin-left: 10px;
+        margin-right: 500px;
+}
+   .Chocolate {
+    height: 200px;
+    width: 400px;
+
+   }
+   img {
+    max-width: 300px;
+    display:block; 
+    border-radius: 25px;
+        margin-left: 10px;
+        margin-right: 500px;
+ }
+
+   .Cenoura {
+    height: 200px;
+    width: 400px;
+}
+
+   .Laranja {
+    
+    height: 200px;
+    width: 200px;
+   
+}
+
+
+
+
+
